@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Undergraduate** | MSc Advanced Computer Science (Incoming)  
 📍 Zhengzhou, China → Leeds, UK | 🌐 Bilingual: Chinese & English  
-📬 mw182048@gmail.com | fjm182048@outlook.com
+📬 mw182048@gmail.com | fjm182048@outlook.com | vqkc0507@leeds.ac.uk
 
 ---
 
