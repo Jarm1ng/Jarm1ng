@@ -53,6 +53,10 @@ Industrial AI system for intelligent vehicle maintenance. The project transforme
 - **Engineering:** PyTorch, Linux/Unix, Git, LaTeX, AI system deployment, mobile deployment
 - **Languages:** Chinese, English
 
+## Contact
+
+- Email: [vqkc0507@leeds.ac.uk](mailto:vqkc0507@leeds.ac.uk)
+
 ## Awards
 
 - International Excellence Scholarship, University of Leeds
